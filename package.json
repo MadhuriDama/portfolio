@@ -1,0 +1,28 @@
+{
+  "name": "madhuri-dama-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Madhuri Dama, .NET Full Stack Developer.",
+  "author": "Madhuri Dama",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "main": "index.html",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "dev": "node scripts/serve.js --open",
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/serve.js --root dist --open"
+  },
+  "keywords": [
+    "portfolio",
+    "dotnet",
+    "angular",
+    "asp-net-core",
+    "csharp",
+    "sql-server"
+  ]
+}

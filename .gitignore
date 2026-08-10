@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+# agent/editor working files and private design notes — this repo is public
+.claude/
+
+# duplicate of assets/Madhuri_Dama_Resume.pdf (the one the site actually serves)
+Madhuri_Dama_Resume (1) (1).pdf
+
+# local tooling / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# logs
+npm-debug.log*
+*.log
